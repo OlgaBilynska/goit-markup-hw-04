@@ -403,6 +403,14 @@ a.nav-logo {
 
 .doing-item > img {
   max-width: 360px;
+  background: linear-gradient(
+      0deg,
+      rgba(77, 90, 229, 0.1),
+      rgba(77, 90, 229, 0.1)
+    ),
+    url(2368.jpg);
+  background-blend-mode: soft-light, normal;
+  border: 1px solid var(--footer-color);
 }
 
 .footer-content {
@@ -440,6 +448,11 @@ a.nav-logo {
 .portfolio-text {
   margin-top: 8px;
 }
+
+/* .portfolio-image {
+  background: #ffffff;
+  border: 1px solid #e7e9fc;
+} */
 
 img {
   display: block;
