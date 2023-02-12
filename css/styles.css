@@ -518,7 +518,7 @@ img {
   justify-content: center;
   border: 1px solid var(--helper-text);
   border-radius: 4px;
-  padding: 16px 32px;
+  /* padding: 16px 32px; */
 }
 
 .customer-block {
