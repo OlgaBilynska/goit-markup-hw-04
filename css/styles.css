@@ -518,7 +518,7 @@ img {
   justify-content: center;
   border: 1px solid var(--helper-text);
   border-radius: 4px;
-  /* padding: 16px 32px; */
+  padding: 16px 32px;
 }
 
 .customer-block {
@@ -583,7 +583,7 @@ img {
   fill: var(--background-color);
 }
 
-.social-item-footer:hover,
-.social-item-footer:focus {
+.soc-link-footer:hover,
+.soc-link-footer:focus {
   background-color: var(--valid-fields);
 }
